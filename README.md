@@ -79,6 +79,7 @@ terraform init
 terraform apply
 ```
 Type yes when prompted to confirm
+
 **Review the Terraform State**
 ```
 terraform state list
